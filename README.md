@@ -1,2 +1,1 @@
-# Coffee_Vending_Machine
-A coffee vending machine simulation.
+A coffee vending machine simulation using OOP.
